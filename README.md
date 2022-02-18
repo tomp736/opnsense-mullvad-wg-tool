@@ -1,4 +1,4 @@
-# opnsense-wg-tool
+# opnsense-mullvad-wg-tool
 python utility to autoconfigure wireguard server &amp; client instance with mullvad.
 
 I havent written anything in python before, comments are welcome :)
