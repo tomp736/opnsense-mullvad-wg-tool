@@ -1,0 +1,6 @@
+[opnsense]
+key=<opnsense_key>
+secret=<opnsense_secret>
+hostname=<hostname_or_ip>
+[mullvad]
+token=<mullvad_token>
